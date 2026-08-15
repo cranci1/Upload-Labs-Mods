@@ -1,0 +1,17 @@
+{
+  "name": "HellaWindows",
+  "namespace": "cranci",
+  "version_number": "1.0.1",
+  "description": "Increases max window value from 500 to 1000 globally",
+  "website_url": "https://github.com/cranci1",
+  "dependencies": [],
+  "extra": {
+    "godot": {
+      "authors": ["cranci"],
+      "tags": ["gameplay", "tweak"],
+      "description_rich": "",
+      "compatible_mod_loader_version": ["6.2.0"],
+      "compatible_game_version": ["2.0.0"]
+    }
+  }
+}
